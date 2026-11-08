@@ -1,4 +1,4 @@
-# 👁️ Daltonic Assist (v1.0.2) ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=green) ![Flutter](https://img.shields.io/badge/flutter-181717?style=flat&logo=flutter&logoColor=70B9EC)
+# 👁️ Daltonic Assist (v1.0.2) ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=green) ![Flutter](https://img.shields.io/badge/flutter-181717?style=flat&logo=flutter&logoColor=70B9Ec)
 
 **Daltonic Assist** es una aplicación de accesibilidad visual en tiempo real, diseñada para ayudar a personas con deficiencias en la percepción del color (daltonismo). A través de la cámara del dispositivo, la aplicación procesa el entorno para aislar, resaltar y contrastar dinámicamente las frecuencias de color que resultan más problemáticas.
 
